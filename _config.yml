@@ -9,7 +9,7 @@ name: Will In India
 description: Adventures from the other side of the world
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/india.png)
+avatar: willrodgers.github.io/images/india.png
 
 #
 # Flags below are optional
