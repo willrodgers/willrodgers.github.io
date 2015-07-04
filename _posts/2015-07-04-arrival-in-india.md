@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arrival in India
+tags: India Chennai food dosa naan hotel
 ---
 
 ![desert]({{ site.baseurl }}/images/chen1_ash.jpg)
