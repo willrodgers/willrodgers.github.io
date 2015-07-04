@@ -9,7 +9,7 @@ Ashely and I have arrived in Chennai! We took opposite paths around the globe (w
 
 The hotel here is wonderful - I'm looking forward to returning here for my extended stay. At the buffet breakfast this morning we discovered our new favorite Indian dish - Marsala Dosa, which is a rice-flour based crepe stuffed with a potato/onion stew, served with a spicy red pepper chutney. It was so delicious we ordered a second plate!
 
-![menu]({{ site.baseurl }}/images/chen1_dosa.JPG)
+![menu]({{ site.baseurl }}/images/chen1_dosa.jpg)
 
 This evening we fly to Delhi to start our tour of the Golden Triangle. Stay tuned!
 
